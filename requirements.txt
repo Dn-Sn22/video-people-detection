@@ -1,0 +1,10 @@
+ultralytics>=8.4.0
+opencv-python
+numpy
+pandas
+matplotlib
+albumentations
+moviepy
+python-telegram-bot
+nest_asyncio
+lap
